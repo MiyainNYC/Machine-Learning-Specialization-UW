@@ -1,4 +1,7 @@
 # Machine-Learning-Specialization
+
+Model based techniques to extract information
+
 Machine Learning, GraphLab, Numpy, Scipy
 
 ## Fundamentals 

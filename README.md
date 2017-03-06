@@ -1,6 +1,6 @@
 # Machine-Learning-Specialization
 
-Model based techniques to extract information
+Model based techniques to extract information from data
 
 Machine Learning, GraphLab, Numpy, Scipy
 
